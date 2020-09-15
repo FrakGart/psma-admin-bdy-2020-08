@@ -11,3 +11,6 @@ Incorporates or developed using G-NAF ©PSMA Australia Limited licensed by the C
 Data processed from original to OSM format using https://github.com/andrewharvey/psma-admin-bdy2osm and https://github.com/andrewharvey/psma-admin-bdys-data
 
 Boundaries are being prepared for import to OSM https://wiki.openstreetmap.org/wiki/Import/Catalogue/PSMA_Admin_Boundaries
+
+<state>_2020-08.osm.xz files are the output of processing.
+<state>_2020-08_import_candidate.osm.xz are the proposed versions for import. They have been edited to remove the parts of the localities and LGAs outside of the state borders. Boundaries corresponding to land based state borders have been tagged with a fixme to aid deleting them. Boundaries corresponding to state maritime boundaries have been tagged with a fixme for review after import.
