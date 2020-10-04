@@ -10,7 +10,7 @@ Incorporates or developed using G-NAF ©PSMA Australia Limited licensed by the C
 
 Data processed from original to OSM format using https://github.com/andrewharvey/psma-admin-bdy2osm and https://github.com/andrewharvey/psma-admin-bdys-data
 
-Boundaries are being prepared for import to OSM https://wiki.openstreetmap.org/wiki/Import/Catalogue/PSMA_Admin_Boundaries
+Boundaries have been imported to OpenStreetMap see: https://wiki.openstreetmap.org/wiki/Import/Catalogue/PSMA_Admin_Boundaries
 
 \<state\>_2020-08.osm.xz files are the output of processing.
 
